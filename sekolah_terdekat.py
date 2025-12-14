@@ -138,7 +138,7 @@ if st.session_state["page"] == "landing":
         <div class="hero-text">
             <h1>Skoolify: Sistem Rekomendasi Sekolah SMA dan SMK Terbaik di Surabaya</h1>
             <p>Skoolify membantu Anda menemukan sekolah SMA dan SMK Negeri terbaik di Surabaya berdasarkan lokasi dan fasilitas.  
-            Temukan sekolah terdekat dengan fasilitas yang sesuai kebutuhan Anda!</p>
+            Temukan sekolah terdekat dengan fasilitas yang sesuai keinginan Anda!</p>
             <a href="?page=main" id="mulai-btn" target="_self">MULAI SEKARANG</a>
         </div>
         <div class="hero-image">
